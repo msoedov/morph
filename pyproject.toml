@@ -26,7 +26,7 @@ cache_to_disk = "*"
 rich = "^13.9.4"
 requests = "*"
 feedparser = "*"
-pypdf = "^5.1.0"
+pypdf = ">=5.1,<7.0"
 pytest-asyncio = ">=0.24,<0.26"
 
 [tool.poetry.group.dev.dependencies]
